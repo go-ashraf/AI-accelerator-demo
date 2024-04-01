@@ -2,7 +2,7 @@
 Simple app that lets you have a verbal conversation with OpenAi's GPT 3.5-Turbo to simulate an interview with the cartoon Patrick Star.
 Modified from Babagaboosh by DougDoug. https://github.com/DougDougGithub/Babagaboosh
 
-If you would like a crappy video explanation of this project, DougDoug made a video covering the basics here: https://www.youtube.com/watch?v=vYE1rkIMj9w
+If you would like a video explanation of this project, DougDoug made a video covering the basics here: https://www.youtube.com/watch?v=vYE1rkIMj9w
 
 ## SETUP:
 1) This was written in Python 3.12.2.
